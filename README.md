@@ -20,7 +20,7 @@ With extensive experience in backend development, I’ve worked on a variety of 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-  <a href="https://drive.google.com/file/d/16xIOWnc-4mqB0LGiBysrnK-bwYckTPmg/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/16xIOWnc-4mqB0LGiBysrnK-bwYckTPmg/view?usp=sharing](https://github.com/Naderabdou)" target="_blank">
      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=whit" target="_blank" /> 
   </a>
 
